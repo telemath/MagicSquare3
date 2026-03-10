@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MagicSquare3.vcxproj" Id="5c0a65fc-debd-4693-b855-372b59720787" />
+</Solution>
